@@ -15,11 +15,7 @@
 
 7.문제 부분의 문제와 일본어 지문의 문단을 나누었습니다.
 
-<img width="364" alt="스크린샷 2022-03-23 오후 7 59 21" src="https://user-images.githubusercontent.com/91593937/159685210-34464dd3-0d67-466d-a1f3-31365fda9ecb.png">
-
-<img width="375" alt="스크린샷 2022-03-23 오후 7 59 01" src="https://user-images.githubusercontent.com/91593937/159685192-5f0d0613-3099-4c88-b8d4-a9c0cf3fd973.png">
-
-<img width="362" alt="스크린샷 2022-03-23 오후 8 00 05" src="https://user-images.githubusercontent.com/91593937/159685250-55aa2349-67cc-4b84-b615-8f667f2a13cd.png">
+<img width="364" alt="스크린샷 2022-03-23 오후 7 59 21" src="https://user-images.githubusercontent.com/91593937/159685210-34464dd3-0d67-466d-a1f3-31365fda9ecb.png"><img width="375" alt="스크린샷 2022-03-23 오후 7 59 01" src="https://user-images.githubusercontent.com/91593937/159685192-5f0d0613-3099-4c88-b8d4-a9c0cf3fd973.png"><img width="362" alt="스크린샷 2022-03-23 오후 8 00 05" src="https://user-images.githubusercontent.com/91593937/159685250-55aa2349-67cc-4b84-b615-8f667f2a13cd.png">
 
 이 유튜브 채널을 참고해서 제작한 앱입니다.
 
