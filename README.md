@@ -9,7 +9,17 @@
 
 4.퀴즈를 다풀면 맞춘갯수와 틀린갯수표시
 
-<img width="373" alt="스크린샷 2022-03-06 오후 2 10 24" src="https://user-images.githubusercontent.com/91593937/156911160-762d4dbb-9e32-47cc-8269-18e2f09e6afe.png"><img width="354" alt="스크린샷 2022-03-06 오후 2 09 55" src="https://user-images.githubusercontent.com/91593937/156911152-7067fa77-9d94-4d08-8122-f7bdbf6bb3b2.png">
+5.앱에 이미지를 추가했습니다.
+
+6.마지막 스코어 나오는 부분에 트로피 이미지 추가
+
+7.문제 부분의 문제와 일본어 지문의 문단을 나누었습니다.
+
+<img width="364" alt="스크린샷 2022-03-23 오후 7 59 21" src="https://user-images.githubusercontent.com/91593937/159685210-34464dd3-0d67-466d-a1f3-31365fda9ecb.png">
+
+<img width="375" alt="스크린샷 2022-03-23 오후 7 59 01" src="https://user-images.githubusercontent.com/91593937/159685192-5f0d0613-3099-4c88-b8d4-a9c0cf3fd973.png">
+
+<img width="362" alt="스크린샷 2022-03-23 오후 8 00 05" src="https://user-images.githubusercontent.com/91593937/159685250-55aa2349-67cc-4b84-b615-8f667f2a13cd.png">
 
 이 유튜브 채널을 참고해서 제작한 앱입니다.
 
