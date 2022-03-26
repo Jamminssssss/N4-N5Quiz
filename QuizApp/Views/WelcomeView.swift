@@ -17,7 +17,7 @@ struct WelcomeView: View {
                     .ignoresSafeArea()
                         
            VStack {
-                Text("Japanese Grammar")
+                Text("Japanese Words")
                     .font(.title)
                     .fontWeight(.heavy)
                     .foregroundColor(.yellow)
